@@ -1,0 +1,1 @@
+export API_KEY="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"
